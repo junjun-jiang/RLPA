@@ -8,7 +8,7 @@ author={J. Jiang and J. Ma and Z. Wang and C. Chen and X. Liu},
 
 journal={IEEE Transactions on Geoscience and Remote Sensing},
 
-title={Hyperspectral Image Classification in the Presence of Noisy Labels,” IEEE Transactions on Geoscience and Remote Sensing},
+title={Hyperspectral Image Classification in the Presence of Noisy Labels},
 
 year={2018},
 
@@ -17,6 +17,8 @@ volume={},
 number={},
 
 pages={},
+
+doi={10.1109/TGRS.2018.2861992, 2018},
 
 month={},}
 
