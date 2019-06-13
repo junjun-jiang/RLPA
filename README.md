@@ -1,26 +1,17 @@
 The code is for the work:
 
 [1] Jiang, J. Ma, Z. Wang, C. Chen, and X. Liu, “Hyperspectral Image Classification in the Presence of Noisy Labels,” IEEE Transactions on Geoscience and Remote Sensing, DOI: 10.1109/TGRS.2018.2861992, 2018.
-
-@ARTICLE{Jiang2018RLPA,
-
-author={J. Jiang and J. Ma and Z. Wang and C. Chen and X. Liu},
-
-journal={IEEE Transactions on Geoscience and Remote Sensing},
-
-title={Hyperspectral Image Classification in the Presence of Noisy Labels},
-
-year={2018},
-
-volume={},
-
-number={},
-
-pages={},
-
-doi={10.1109/TGRS.2018.2861992, 2018},
-
-month={},}
+```
+@article{jiang2019hyperspectral,
+  title={Hyperspectral Image Classification in the Presence of Noisy Labels},
+  author={Jiang, Junjun and Ma, Jiayi and Wang, Zheng and Chen, Chen and Liu, Xianming},
+  journal={IEEE Transactions on Geoscience and Remote Sensing},
+  volume={57},
+  number={2},
+  pages={851--865},
+  year={2019}
+}
+```
 
 If you need another two datasets (PaviaU and Salinas), please feel free to contact me. Or you can download them from http://www.ehu.eus/ccwintco/index.php/Hyperspectral_Remote_Sensing_Scenes
 
