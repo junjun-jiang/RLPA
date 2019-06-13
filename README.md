@@ -1,6 +1,5 @@
 The code is for the work:
 
-[1] Jiang, J. Ma, Z. Wang, C. Chen, and X. Liu, “Hyperspectral Image Classification in the Presence of Noisy Labels,” IEEE Transactions on Geoscience and Remote Sensing, DOI: 10.1109/TGRS.2018.2861992, 2018.
 ```
 @article{jiang2019hyperspectral,
   title={Hyperspectral Image Classification in the Presence of Noisy Labels},
