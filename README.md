@@ -12,6 +12,18 @@ The code is for the work:
 }
 ```
 
+```
+@article{jiang2020learning,
+ author={J. {Jiang} and J. {Ma} and X. {Liu}}, 
+ journal={IEEE Transactions on Neural Networks and Learning Systems}, 
+ title={Multilayer Spectral-Spatial Graphs for Label Noisy Robust Hyperspectral Image Classification}, 
+ year={2020}, 
+ volume={}, 
+ number={}, 
+ DOI={10.1109/TNNLS.2020.3029523},}
+```
+
+
 If you need another two datasets (PaviaU and Salinas), please feel free to contact me. Or you can download them from http://www.ehu.eus/ccwintco/index.php/Hyperspectral_Remote_Sensing_Scenes
 
 PaviaU: http://www.ehu.eus/ccwintco/uploads/e/ee/PaviaU.mat, http://www.ehu.eus/ccwintco/uploads/5/50/PaviaU_gt.mat
