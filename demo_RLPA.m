@@ -14,17 +14,17 @@ if strcmp(dataset,'Indian')==1
     load Indian_pines_corrected;load Indian_pines_gt;load Indian_pines_randp %s=2 10^1 0.01
     paviaU = indian_pines_corrected;
     paviaU_gt = indian_pines_gt;
-    trainnumber = 0.1; Ratio = 0.0812;%Ratio = 0.0983;
+    trainnumber = 0.1; Ratio = 0.0812;% the value of Ratio can be obtained by the function of "Edge_ratio3" in the function of "cubseg"
     
 elseif strcmp(dataset,'PaviaU')==1
     load PaviaU;load PaviaU_gt;load PaviaU_randp % s=8 10^6 0.01
-    trainnumber = 50; Ratio = 0.0664;%Ratio = 0.1176;
+    trainnumber = 50; Ratio = 0.0664;
 
 elseif strcmp(dataset,'Salinas')==1
     load Salinas_corrected;load Salinas_gt;load Salinas_randp %  s=2 10^1 0.01
     paviaU = salinas_corrected;
     paviaU_gt = salinas_gt;
-    trainnumber = 50; Ratio = 0.0513;%Ratio = 0.0942;
+    trainnumber = 50; Ratio = 0.0513;
 end
 
 % smoothing
