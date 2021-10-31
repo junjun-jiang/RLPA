@@ -23,6 +23,8 @@ The code is for the work:
  DOI={10.1109/TNNLS.2020.3029523},}
 ```
 
+To generate the file of *_randp.mat for other database, you can use the randpTest.m to generate.
+
 
 If you need another two datasets (PaviaU and Salinas), please feel free to contact me. Or you can download them from http://www.ehu.eus/ccwintco/index.php/Hyperspectral_Remote_Sensing_Scenes
 
